@@ -1,4 +1,4 @@
-<img style="width:100%" src="https://github.com/vipinsahu/vipinsahu/blob/main/programming-languages-solodev_final.jpg">
+<img style="width:100%" src="https://github.com/vipinsahu/vipinsahu/blob/main/hardest-programming-language.png">
 <h1 align="center">Hi 👋, I'm Vipin Sahu</h1>
 
 <h3 align="center">A passionate Web developer from India</h3>
