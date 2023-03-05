@@ -1,4 +1,4 @@
-<img style="" src="http://www.atozgeeks.co.in/wp-content/uploads/2020/07/website-design-in-india-1.gif">
+<img style="width:100%" src="https://github.com/vipinsahu/vipinsahu/blob/main/programming-languages-solodev_final.jpg">
 <h1 align="center">Hi 👋, I'm Vipin Sahu</h1>
 
 <h3 align="center">A passionate Web developer from India</h3>
